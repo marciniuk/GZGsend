@@ -38831,7 +38831,7 @@ a0t:function(a){var t=0,s=P.B(u.z),r,q=this,p,o
 var $async$tZ=P.x(function(b,c){if(b===1)return P.y(c,s)
 while(true)switch(t){case 0:L.t(a,C.f,u.d).toString
 t=3
-return P.j(new G.cO(a).a5B("tchncs.de","https://",T.w("Enter your homeserver",null,null,null,null)),$async$tZ)
+return P.j(new G.cO(a).a5B("grandzonegaming.com","https://",T.w("Enter your homeserver",null,null,null,null)),$async$tZ)
 case 3:p=c
 o=p==null?null:p.length===0
 if(o!==!1){t=1
@@ -38860,11 +38860,11 @@ r=new P.aS(6,6)
 L.t(a,C.f,n).toString
 r=T.pm(M.aD(q,D.qi(L.G(T.w("Connect",q,q,q,q).toUpperCase(),q,q,q,q,A.aH(q,q,C.m,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q),q),s,7,new E.Zu(this,a),new X.cq(C.A,new K.by(r,r,r,r))),q,q,q,q,50,q,new V.a9(12,0,12,0),q,1/0),"loginButton")
 L.t(a,C.f,n).toString
-s=L.G(T.w("By default you will be connected to tchncs.de",q,"byDefaultYouWillBeConnectedTo",["tchncs.de"],q),q,q,q,q,A.aH(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q),C.c1)
+s=L.G(T.w("By default you will be connected to grandzonegaming.com",q,"byDefaultYouWillBeConnectedTo",["grandzonegaming.com"],q),q,q,q,q,A.aH(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q),C.c1)
 L.t(a,C.f,n).toString
 return M.de(q,Q.Lv(!0,new T.bw(new V.a9(p,0,p,0),T.cS(H.a([o,new T.bw(C.jH,t,q),new R.nx(q),r,new T.bw(C.HL,new T.dH(0.75,!1,s,q),q),N.h8(L.G(T.w("Change the homeserver",q,q,q,q),q,q,q,q,A.aH(q,q,C.cv,q,C.eG,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q),q),new E.Zv(this,a)),new T.c7(q,16,q,q)],u.p),C.I,C.G,C.U),q),C.aP,!0),q)}}
 E.Zu.prototype={
-$0:function(){return this.a.mE("tchncs.de",this.b)},
+$0:function(){return this.a.mE("grandzonegaming.com",this.b)},
 $S:26}
 E.Zv.prototype={
 $0:function(){return this.a.tZ(this.b)},
