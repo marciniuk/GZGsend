@@ -1,7 +1,7 @@
 {
-    "short_name": "GZGsend",
-    "name": "GZGsend",
-    "description": "Największa oraganizacja zrzeszająca graczy w polsce",
+    "short_name": "FluffyChat",
+    "name": "FluffyChat",
+    "description": "Chat with your friends",
     "icons": [
         {
             "src": "assets/assets/logo.png",
