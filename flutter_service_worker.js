@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "39ae6143a86017b675b2aec568b2cab8",
 "browserconfig.xml": "653d077300a12f09a69caeea7a8947f8",
 "manifest.json": "d0730d8ba1844e2657a61320ef2ba6cc",
-"main.dart.js": "85cd2f7be2c81fe5ecbd0c8191bb4227"
+"main.dart.js": "671f183d53ef68898609212416db53a8"
 };
 
 self.addEventListener('activate', function (event) {
